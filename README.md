@@ -30,7 +30,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Ricardo Rodrigues
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
