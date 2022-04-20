@@ -2,17 +2,8 @@
 
 Description. 
 The package package_name is used to:
-	Processing:
-	- Visualizar o Histogram 
-	- Estrutura de Similaridade
-	- Dimensionamento da Imagem
-
-Sera possivel:
-	- Ver a Imagem
-	- Salvar a Imagem
-	- Plotar a Imagem
-	- Plotar a Dimensao
-	- Plotar o Histogram
+	- 
+	-
 
 ## Installation
 
@@ -30,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Ricardo Rodrigues
+My_name
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
