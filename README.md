@@ -7,7 +7,7 @@ The package package_name is used to:
 
 ## Installation
 
-# package_name
+# image-processing
 
 Description. 
 The package package_name is used to:
